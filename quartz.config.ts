@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "AI Alignment Knowledge Graph",
+    pageTitle: "AI Alignment Research Compass",
     enableSPA: true,
     enablePopovers: false,
     analytics: {
