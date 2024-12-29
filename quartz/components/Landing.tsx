@@ -183,8 +183,8 @@ export default (() => {
     <div class='container'>
       <div class="left">
         <div class='left-content'>
-        <h3>About the Alignment Project</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum quibusdam, maxime dicta corporis molestias id nemo! Consectetur accusamus, temporibus sit hic id ut. Ipsa rem autem nobis voluptate at ab.</p>
+        <h3>About the AI Alignment Research Compass</h3>
+      <p>An online tool designed to help navigating the complex landscape of AI Alignment Research, particularly for newcomers to the field.</p>
       </div>
       </div>
       <div class="right">

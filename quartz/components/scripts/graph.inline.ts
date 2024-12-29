@@ -202,6 +202,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     }
   }
 
+  // the num in return increases radius
   function nodeRadius(d: NodeData) {
     const numLinks = graphData.links.filter(
       (l) => l.source.id === d.id || l.target.id === d.id,
