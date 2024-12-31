@@ -202,17 +202,19 @@ body {
   display: flex;
   padding: 20px;
   border-radius: 10px;
-  border: solid 1px #5b23d5;
+  border: solid 1px black;
   align-items: center;
   justify-content: center;
   text-align: center;
   transition: box-shadow 0.3s;
+  background-color: white;
+  // background-blend-mode: gray;
 
 
   p {
     font-size: 1.2rem;
     font-weight: 300;
-    color: #5b23d5;
+    color: black;
   }
 
   &:hover {

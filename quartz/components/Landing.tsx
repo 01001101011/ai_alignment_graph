@@ -88,7 +88,7 @@ export default (() => {
         </section>
         <section class="getting-started">
           <div class="container">
-            <h2 style='font-weight: 500'>Can't decide where to start? We've picked some starter papers to get you going.</h2>
+            <h2 style='font-weight: 500'>Can't decide where to start? We've picked some starter topics to get you going.</h2>
             <div class="card-row">
               <a href="/value-alignment">
                 <div class="card">
@@ -184,10 +184,10 @@ export default (() => {
             <h2>New to AI Safety? Jump to the basics</h2>
             <div class="get-started">
               <a href="/home">
-                  <div class="get-started-button">
-                    <p>Get started!</p>
-                  </div>
-                </a>
+                <div class="get-started-button">
+                  <p>Get started!</p>
+                </div>
+              </a>
             </div>
           </div>
         </section>
@@ -196,7 +196,7 @@ export default (() => {
             <div class="left">
               <div class='left-content'>
                 <h3>About the AI Alignment Research Compass</h3>
-                <p>An online tool designed to help navigating the complex landscape of AI Alignment Research, particularly for newcomers to the field.</p>
+                <p>Designed to help navigating the complex landscape of AI Alignment Research, particularly for newcomers to the field.</p>
               </div>
             </div>
             <div class="right">
